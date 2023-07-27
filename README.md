@@ -1,2 +1,2 @@
 # Docker
-Docker Education
+Docker Education detailing the journey.
